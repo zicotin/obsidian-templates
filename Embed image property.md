@@ -1,0 +1,1 @@
+`=embed(this.image)`
