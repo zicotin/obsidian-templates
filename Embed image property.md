@@ -1,1 +1,1 @@
-`=embed(this.image)`
+`=embed(default(this.image, link(this.file.name + ".webp")))`
